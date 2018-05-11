@@ -1,0 +1,2 @@
+exe is located in:
+Parser\Parser\bin\Debug

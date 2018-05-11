@@ -1,0 +1,9 @@
+PROGRAM testcase
+	WITH 
+		number AS INTEGER 
+	IN 
+		INPUT number
+		IF number = 10 THEN OUTPUT 1
+		ELSE OUTPUT 0
+		ENDIF
+END

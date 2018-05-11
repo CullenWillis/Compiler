@@ -1,0 +1,7 @@
+PROGRAM testcase
+	WITH 
+		number AS INTEGER 
+	IN 
+		number = 0
+		IF number = 0 THEN OUTPUT 1 ENDIF
+END

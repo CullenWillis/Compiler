@@ -1,0 +1,8 @@
+PROGRAM testCase
+	WITH 
+		number, numberThree AS INTEGER 
+	IN 
+		number = 3
+		INPUT numberThree
+		OUTPUT number - Three
+END

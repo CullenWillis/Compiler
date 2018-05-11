@@ -1,0 +1,9 @@
+PROGRAM testcase
+	WITH 
+		number AS INTEGER 
+	    tree AS INTEGER
+	IN 
+		number = 1
+		tree = 2
+		IF tree > number THEN OUTPUT 1 ENDIF
+END

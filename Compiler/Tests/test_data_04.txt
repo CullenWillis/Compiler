@@ -1,0 +1,7 @@
+PROGRAM testcase
+	WITH 
+		number AS INTEGER 
+	IN 
+		INPUT someNumber
+		OUTPUT someNumber
+END

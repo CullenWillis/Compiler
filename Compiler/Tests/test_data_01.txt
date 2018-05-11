@@ -1,0 +1,9 @@
+PROGRAM testcase
+	WITH 
+		number AS INTEGER 
+	    tree AS REAL
+	IN 
+		number = 1
+		tree = 2
+		IF (tree * 2) > number THEN OUTPUT 1 ENDIF
+END
